@@ -41,20 +41,33 @@ Technical Lead Data Scientist with 10+ years experience in Data Science-Big Data
 | SSC | 84.76% | MH State Board | 2007 |
 
 ## Skills
-- LLM / Deep Learning / NLP
-- Machine Learning / H2O
-- Python / SQL / R
-- GCP - GKE, CE, GCS, App Engine, Cloud Function
-- AWS Lambda / EC2 / S3
-- Apache Airflow/ Spark
-- DataIKU/ GCP
-- Terraform
-- Kubernetes / Docker
-- Heroku / Flask/ GIT
-- Hadoop / HDFS
-- Hive / Pig/ Sqoop / Flume
-- Tableau-Excel-PowerPoint
-- NoSQL - Mongo DB
+| **NLP / Machine Learning** | **Programming / Data Analysis** | **Cloud Platforms**               |
+|--------------------------|--------------------------------|------------------------------------|
+| LLM                      | Python                         | GCP (Google Cloud Platform)        |
+| Deep Learning            | SQL                            | - GKE (Google Kubernetes Engine)   |
+| Machine Learning         | R                              | - CE (Compute Engine)              |
+| H2O                      |                                | - GCS (Google Cloud Storage)       |
+|                          |                                | - App Engine                       |
+|                          |                                | - Cloud Function                   |
+|                          |                                | AWS (Amazon Web Services)          |
+|                          |                                | - Lambda                           |
+|                          |                                | - EC2 (Elastic Compute Cloud)      |
+|                          |                                | - S3 (Simple Storage Service)      |
+| **Big Data / Orchestration** | **Infrastructure / Containers** | **Web Dev / Version Control**     |
+| Apache Airflow            | Terraform                      | Heroku                             |
+| Apache Spark              | Kubernetes                     | Flask                              |
+| DataIKU                   | Docker                         | GIT                                |
+| Hadoop                    |                                |                                    |
+| HDFS                      |                                |                                    |
+| Hive                      |                                |                                    |
+| Pig                       |                                |                                    |
+| Sqoop                     |                                |                                    |
+| Flume                     |                                |                                    |
+| **Data Viz / Analysis**   | **NoSQL Database**             |                                    |
+| Tableau                   | MongoDB                        |                                    |
+| Excel                     |                                |                                    |
+| PowerPoint                |                                |                                    |
+
 
 ## Projects
 ### Hotel Price Elasticity - Surge Detection Based Revenue Optimization Project
