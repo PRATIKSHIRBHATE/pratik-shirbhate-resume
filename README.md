@@ -3,11 +3,11 @@
 ## Contact Information
 - pratikshirbhate@gmail.com
 - Phone: 7588809138
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pratik-shirbhate/)
-- GitHub: [Your LinkedIn Profile](https://github.com/PRATIKSHIRBHATE)
+- [LinkedIn Profile](https://www.linkedin.com/in/pratik-shirbhate/)
+- [LinkedIn Profile](https://github.com/PRATIKSHIRBHATE)
 
 ## Summary
-Tecnical Lead Data Scientist with 10+ years experience in Data Science-Big Data technologies with a strong background in mathematics and python programming
+Technical Lead Data Scientist with 10+ years experience in Data Science-Big Data technologies with a strong background in mathematics and python programming
 
 ## Professional Experience:
 ### Jet2 Travel Tech, Pune
@@ -33,10 +33,10 @@ Tecnical Lead Data Scientist with 10+ years experience in Data Science-Big Data 
 - Asst Professor,  July 2015 - Oct 2015
 
 ## Education
-- M.Tech (Mech Eng)-8.76/10 IIT Gandhinagar, 2013-15
-- B.E (Mechanical Eng) - 85% SGBAU, MH, 2009-13 4th Merit, College Topper
-- HSC - 90% Board of Intermediate Edu, Hyderabad, 2007-09
-- SSC - 84.76% MH State Board, 2007
+|M.Tech (Mech Eng)|8.76/10|IIT Gandhinagar|2013-15||
+|B.E (Mechanical Eng)|85%|SGBAU, MH|2009-13| 4th Merit, College Topper|
+|HSC|90%| Board of Intermediate Edu, Hyderabad| 2007-09||
+|SSC|84.76%|MH State Board|2007||
 
 ## Skills
 - LLM / Deep Learning / NLP
