@@ -139,4 +139,4 @@ Tecnical Lead Data Scientist with 10+ years experience in Data Science-Big Data 
 - Machine Learning- Udemy
 - Kubernetes- Simplilearn
 - Algorithms & DS - Coursera
-
+git 
