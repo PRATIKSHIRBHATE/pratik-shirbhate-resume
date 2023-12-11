@@ -10,6 +10,8 @@
 Tecnical Lead Data Scientist with 10+ years experience in Data Science-Big Data technologies with a strong background in mathematics and python programming
 
 ## Professional Experience:
+- Technical Lead Data Scientist , Jet2 Travel Tech , Pune, Nov 2020 -
+- Senior Machine Learning Engineer , Jet2 Travel Tech , Pune, Nov 2020 -
 - Senior Data Scientist , Jet2 Travel Tech , Pune, Nov 2020 -
 - Senior Data Scientist, Evolent Health, Pune, Oct 2018 - Oct 2020
 - Associate , Cognizant Tech, Pune, Nov 2015 - Sep 2018
