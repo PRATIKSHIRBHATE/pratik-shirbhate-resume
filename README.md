@@ -8,28 +8,28 @@
 - [GitHub Profile](https://github.com/PRATIKSHIRBHATE)
 
 ## Summary
-Technical Lead Data Scientist with 10+ years of experience in Data Science-Big Data technologies with a strong background in mathematics and Python programming.
+Technical Lead Data Scientist with over 10 years of experience in designing, developing, and productionizing solutions using Data Science-Big Data technologies, which have driven significant revenue growth and operational efficiency
 
 ## Professional Experience:
 ### Jet2 Travel Tech, Pune
 - Technical Lead Data Scientist, Jul 2022 - Till Date
-- Description: Briefly describe your responsibilities and achievements in this role.
+- Description: Lead a team of machine learning engineers and data scientists to identify and assess the impact of business initiatives, develop, deploy, and maintain a production system solution, along with cloud infrastructure, that brings value to the organization and aligns with the organization's growth strategy
 
 - Senior Machine Learning Engineer, Apr 2022 - Aug 2022
-- Description: Briefly describe your responsibilities and achievements in this role.
+- Description: Lead a team of machine learning engineers to assess the technical feasibility of the developed data science solution and deploy, maintain, and provide production support for the production system solution, along with cloud infrastructure.
 
 - Senior Data Scientist, Nov 2020 - Apr 2022
-- Description: Briefly describe your responsibilities and achievements in this role.
+- Description: Lead a team of data scientists to identify and assess the impact of business initiatives in terms of value opportunity, and design, develop, and test the data science solution
 
 ### Evolent Health, Pune
 - Senior Data Scientist, Jul 2020 - Oct 2020
-- Description: Briefly describe your responsibilities and achievements in this role.
+- Description: Collaborate with the US data science team and lead the India data science team in designing, developing, testing, and deploying the data science solution.
 
 - Data Scientist, Oct 2018 - Jun 2020
-- Description: Briefly describe your responsibilities and achievements in this role.
+- Description: Collaborate with the US data science team to design, develop, and test the components of the data science solution.
 ### Cognizant Technology Solutions, Pune
 - Associate, Nov 2015 - Sep 2018
-- Description: Briefly describe your responsibilities and achievements in this role.
+- Description: Collaborate with the on-site lead data scientist to conduct and present data analysis, and construct a proof of concept for a data science solution
 ### MIT COE, Pune
 - Assistant Professor,  July 2015 - Oct 2015
 
@@ -45,9 +45,9 @@ Technical Lead Data Scientist with 10+ years of experience in Data Science-Big D
 | **NLP / Machine Learning** | **Programming / Data Analysis** | **Cloud Platforms**               |
 |--------------------------|--------------------------------|------------------------------------|
 | LLM                      | Python                         | GCP (Google Cloud Platform)        |
-| Deep Learning            | Snowflake-SQL                  | - GKE & Compute Engine             |
-| Machine Learning         | R                              | - Google Cloud Storage             |
-| H2O                      |                                | - App Engine & Cloud Function      |
+| Deep Learning-Tensorflow | Snowflake-SQL                  | - GKE & Compute Engine             |
+| Machine Learning-sklearn | R                              | - Google Cloud Storage             |
+| H2O - AutoML             |                                | - App Engine & Cloud Function      |
 |                          |                                | - AWS (Amazon Web Services)        |
 |                          |                                | - AWS Lambda, EC2 & S3             |
 | **Big Data / Orchestration** | **Infrastructure / Containers** | **Web Dev / Version Control**     |
@@ -57,7 +57,7 @@ Technical Lead Data Scientist with 10+ years of experience in Data Science-Big D
 | Hadoop/HDFS               |                                |                                    |
 | Hive/Pig/Sqoop/Flume      |                                |                                    |
 | **Data Viz / Analysis**   | **NoSQL Database**             | **Agile**                          |
-| Tableau                   | MongoDB                        | AzureDevOps                        |
+| Tableau                   | MongoDB                        | AzureDevOps(Planning,standup,retro)|
 | Excel                     |                                | Confluence                         |
 | PowerPoint                |                                | Jira                               |
 
