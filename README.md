@@ -1,5 +1,6 @@
 # PRATIK SHIRBHATE
 ![Profile Picture](profile_pic.jpg)
+<img src="profile_pic.jpg" width="50%">
 
 ## Contact Information
 - pratikshirbhate@gmail.com
