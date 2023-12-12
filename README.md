@@ -1,4 +1,5 @@
 # PRATIK SHIRBHATE
+![Profile Picture](profile_pic.jpg)
 
 ## Contact Information
 - pratikshirbhate@gmail.com
@@ -48,8 +49,7 @@ Technical Lead Data Scientist with 10+ years of experience in Data Science-Big D
 | Machine Learning         | R                              | - Google Cloud Storage             |
 | H2O                      |                                | - App Engine & Cloud Function      |
 |                          |                                | - AWS (Amazon Web Services)        |
-|                          |                                | - Lambda                           |
-|                          |                                | - EC2 & S3                         |
+|                          |                                | - AWS Lambda, EC2 & S3             |
 | **Big Data / Orchestration** | **Infrastructure / Containers** | **Web Dev / Version Control**     |
 | DataIKU                   | Terraform                      | Heroku                             |
 | Apache Airflow            | Kubernetes                     | Flask                              |
@@ -65,7 +65,7 @@ Technical Lead Data Scientist with 10+ years of experience in Data Science-Big D
 ## Projects
 ### Hotel Price Elasticity - Surge Detection Based Revenue Optimization Project
 - Built and deployed a real-time Booking surge detection at Hotel Occupancy Date level and optimized the Hotel Margin on Dataiku platform with GKE as the backend.
-- Estimated an increase in revenue by 3M GBP for 2024 Bookings.
+- Estimated an increase in revenue by 5M GBP for 2024 Bookings for 20% properties
 
 ### Flight Price Elasticity - One Way Supplement - Airline Revenue Project
 - Built and deployed a real-time dynamic One Way Booking Airline pricing model on the Dataiku platform with GKE as the backend.
