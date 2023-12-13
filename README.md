@@ -42,24 +42,18 @@ Technical Lead Data Scientist with over 10 years of experience in designing, dev
 | SSC | 84.76% | MH State Board | 2007 |
 
 ## Skills
-| **NLP / Machine Learning** | **Programming / Data Analysis** | **Cloud Platforms**               |
-|--------------------------|--------------------------------|------------------------------------|
-| LLM                      | Python                         | GCP (Google Cloud Platform)        |
-| Deep Learning-Tensorflow | Snowflake-SQL                  | - GKE & Compute Engine             |
-| Machine Learning-sklearn | R                              | - Google Cloud Storage             |
-| H2O - AutoML             |                                | - App Engine & Cloud Function      |
-|                          |                                | - AWS (Amazon Web Services)        |
-|                          |                                | - AWS Lambda, EC2 & S3             |
-| **Big Data / Orchestration** | **Infrastructure / Containers** | **Web Dev / Version Control**     |
-| DataIKU                   | Terraform                      | Heroku                             |
-| Apache Airflow            | Kubernetes                     | Flask                              |
-| Apache Spark              | Docker                         | GIT                                |
-| Hadoop/HDFS               |                                |                                    |
-| Hive/Pig/Sqoop/Flume      |                                |                                    |
-| **Data Viz / Analysis**   | **NoSQL Database**             | **Agile**                          |
-| Tableau                   | MongoDB                        | AzureDevOps(Planning,standup,retro)|
-| Excel                     |                                | Confluence                         |
-| PowerPoint                |                                | Jira                               |
+| **NLP / Machine Learning** | **Programming / Data Analysis** | **Cloud Platforms**               | **Big Data / Orchestration** |
+|--------------------------|--------------------------------|------------------------------------|------------------------------|
+| LLM                      | Python                         | GCP (Google Cloud Platform)        | DataIKU                      |
+| Deep Learning-Tensorflow | Snowflake-SQL                  | - GKE & Compute Engine             | Terraform                    |
+| Machine Learning-sklearn | R                              | - Google Cloud Storage             | Apache Spark                 |
+| H2O - AutoML             |                                | - App Engine & Cloud Function      | Docker                       |
+|                          |                                | - AWS (Amazon Web Services)        | Hadoop/HDFS                  |
+|                          |                                | - AWS Lambda, EC2 & S3             | Hive/Pig/Sqoop/Flume         |
+| **Web Dev / Version Control** | **Data Viz / Analysis**   | **NoSQL Database**             | **Agile**                    |
+| Heroku                   | Tableau                        | MongoDB                            | AzureDevOps(Planning,standup,retro) |
+| Flask                    | Excel                          |                                    | Confluence                   |
+| GIT                      | PowerPoint                     |                                    | Jira                         |
 
 
 ## Projects
