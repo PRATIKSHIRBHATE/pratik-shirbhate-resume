@@ -41,6 +41,14 @@ Technical Lead Data Scientist with over 10 years of experience in designing, dev
 | HSC | 90% | Board of Intermediate Education, Hyderabad | 2007-09 |
 | SSC | 84.76% | MH State Board | 2007 |
 
+## Acomplishments / Certifications
+- Speaker at Analytics Vidhya Datahack Summit 2022
+- Google Cloud Professional Machine Learning Engineer - Coursera
+- AI - Medical Specialization, Deep-learning.ai
+- Machine Learning- Udemy
+- Kubernetes- Simplilearn
+- Algorithms & DS - Coursera
+
 ## Skills
 | **NLP / Machine Learning** | **Programming / Data Analysis** | **Cloud Platforms**               | **Big Data / Orchestration** |
 |--------------------------|--------------------------------|------------------------------------|------------------------------|
@@ -104,10 +112,3 @@ Technical Lead Data Scientist with over 10 years of experience in designing, dev
 - Built a model to predict risk scores to help the actuarial team for pricing and planning.
 - Tuned hyperparameters using SKlearn's Grid Search and evaluated the performance of machine learning models using K-Fold cross-validation.
 - Created the web app using the Flask Framework and deployed it on Heroku.
-
-## Certifications
-- Google Cloud Professional Machine Learning Engineer - In progress
-- AI - Medical Specialization, Deep-learning.ai
-- Machine Learning- Udemy
-- Kubernetes- Simplilearn
-- Algorithms & DS - Coursera
