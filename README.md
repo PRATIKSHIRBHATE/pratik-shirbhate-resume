@@ -11,7 +11,7 @@
 ## Contact
 
 - Email: pratikshirbhate@gmail.com
-- Phone: [phone_number]
+- Phone: +91 7588809138
 - [LinkedIn](https://www.linkedin.com/in/pratik-shirbhate/)
 - [GitHub](https://github.com/PRATIKSHIRBHATE)
 
