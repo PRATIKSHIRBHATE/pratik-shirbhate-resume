@@ -39,62 +39,6 @@ Open to Principal / Staff / Lead roles in ML Platform Engineering, AI Infrastruc
 
 ---
 
-## Technical Skills
-
-### Platform & Infrastructure (Primary)
-- AIMLOps Strategy & Implementation
-- LLM Platform Engineering & GenAI Infrastructure
-- Infrastructure as Code & ML Governance (Terraform, Azure CI/CD)
-- AWS, Snowflake, SageMaker ML Infrastructure
-- AI/ML System Design & Architecture
-- Scalable ML Infrastructure
-
-### MLOps & Engineering
-- MLOps Strategy & Implementation
-- Production Model Lifecycle Management
-- Model Deployment & Serving
-- Model Monitoring & Observability
-- ML Pipeline Development
-- Workflow Orchestration (Apache Airflow)
-- CI/CD for Machine Learning
-
-### Cloud & DevOps
-- AWS (SageMaker, Lambda, EC2, S3, VPC)
-- GCP (GKE, Compute Engine, Cloud Storage, App Engine, Cloud Functions)
-- Terraform
-- Docker
-- Azure DevOps
-
-### Machine Learning & Data Science
-- Machine Learning (sklearn, H2O AutoML)
-- Deep Learning (TensorFlow)
-- LLMs & GenAI
-- Predictive Modeling & Statistical Modeling
-- Feature Engineering
-- Data Exploration & Visualization
-
-### Programming & Data
-- Python
-- SQL / Snowflake-SQL / PL/SQL
-- R
-- Scala
-
-### Big Data
-- Apache Spark
-- Hadoop/HDFS
-- Hive / Pig / Sqoop / Flume
-- Dataiku DSS
-
-### Tools & Collaboration
-- Tableau
-- MongoDB
-- Git
-- Flask / Heroku
-- Jira / Confluence
-- Project Management
-
----
-
 ## Professional Experience
 
 ### Jet2 Travel Technologies Pvt Ltd. (5 years 7 months)
@@ -167,6 +111,12 @@ Led MLOps and CI/CD engineering, productionizing 20+ ML models across Retail Dyn
 **Assistant Professor** | July 2015 – November 2015 | Pune
 
 - Taught Engineering Graphics, Fluid Mechanics, and Heat Transfer
+
+---
+
+## Technical Skills
+
+MLOps & ML Platform Architecture · AWS SageMaker · Terraform · LLM Platform Engineering & GenAI Infrastructure · Infrastructure as Code · Snowflake · CI/CD for ML · Model Governance & Monitoring · Docker · Azure DevOps · Python · SQL · Apache Airflow · Apache Spark · GCP (GKE, Compute Engine) · Machine Learning (sklearn, H2O AutoML) · Deep Learning (TensorFlow) · Predictive Modeling · Feature Engineering · Tableau · MongoDB · Git · R
 
 ---
 
