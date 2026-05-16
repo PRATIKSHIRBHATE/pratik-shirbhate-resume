@@ -1,4 +1,5 @@
 <img src="profile_pic.jpg" width="25%">
+
 # Pratik Shirbhate
 
 **Lead AI/ML Platform Architect | MLOps & ML Platform Engineering | AWS, SageMaker, Terraform | Enabling Scalable Production ML Systems**
@@ -170,6 +171,13 @@ Led MLOps and CI/CD engineering, productionizing 20+ ML models across Retail Dyn
 ---
 
 ## Key Projects & Business Impact
+
+### Jet2 – ML Platform & Infrastructure
+
+| Project | Impact |
+|---------|--------|
+| Dataiku → AWS SageMaker Platform Migration | Led end-to-end migration of 20+ DS initiatives to a cloud-native MLOps platform (SageMaker, Snowflake, Terraform, Azure DevOps). Enabled self-service for 50+ users. **£150K/year cost savings** (50% reduction) via compute rightsizing, lifecycle policies & VPC optimization. Replaced legacy tooling with production-grade CI/CD, model governance, and observability — now the org standard. |
+| MLE Team & MLOps Practice (Founded) | Built the ML Engineering team from scratch (6–8 engineers). Productionized 20+ models across Pricing, Marketing, Fuel & Risk. Established repeatable deployment patterns for 40+ data scientists, standardized CI/CD pipelines, model monitoring, versioning & lifecycle management. **Reduced time-to-production significantly** and laid the foundation for the full-scale ML platform. |
 
 ### Jet2 – Travel & Airline Revenue
 
