@@ -55,7 +55,7 @@ Led end-to-end migration of a 50+ member Data Science org from Dataiku to Amazon
 - Led incident management practices (PagerDuty, RCA) improving platform reliability
 - Managed and mentored 5–8 ML engineers across UK and India, driving upskilling for 50+ engineers
 
-**Technical Lead – Data Science & Machine Learning** | July 2022 – April 2026 | Pune
+**Technical Lead – Data Science & Machine Learning** | April 2023 – April 2026 | Pune
 
 Led MLOps and CI/CD engineering, productionizing 20+ ML models across Retail Dynamic Pricing, Marketing Attribution, Fuel Forecasting, and Revenue Trading Risk.
 
@@ -65,7 +65,7 @@ Led MLOps and CI/CD engineering, productionizing 20+ ML models across Retail Dyn
 - Established MLOps best practices: model monitoring, versioning, and lifecycle management
 - Laid foundational ML infrastructure that directly evolved into the org's full-scale ML platform
 
-**Senior Machine Learning Engineer** | April 2022 – August 2022 | Pune
+**Senior Machine Learning Engineer** | April 2022 – April 2023 | Pune
 
 - Built MLE Team from scratch; deployed scalable machine learning pipelines, transitioning models from research to production
 - Developed automated workflows for model training, evaluation, and deployment using cloud-based infrastructure
@@ -73,7 +73,7 @@ Led MLOps and CI/CD engineering, productionizing 20+ ML models across Retail Dyn
 - Implemented monitoring and logging mechanisms to track model performance in production
 - Contributed to early MLOps practices, improving repeatability and maintainability of ML systems
 
-**Senior Data Scientist** | November 2020 – August 2022 | Pune
+**Senior Data Scientist** | November 2020 – April 2022 | Pune
 
 - Developed and deployed machine learning models solving business problems across the Airline domain
 - Performed data analysis, feature engineering, and model evaluation to improve predictive performance
