@@ -19,11 +19,11 @@ ML Platform leader (10+ years) specializing in building production-grade AI infr
 - £150K/year cost savings via rightsizing, lifecycle policies, VPC optimization
 - Built CI/CD, model governance, observability, and cost monitoring from scratch
 
-**Technical Lead – DS & ML** | Jet2 | Jul 2022 – Apr 2026
+**Technical Lead – DS & ML** | Jet2 | Apr 2023 – Apr 2026
 - Founded MLE team (6–8 engineers); productionized 20+ models across Pricing, Marketing, Fuel, Risk
 - Established deployment patterns and MLOps standards for 40+ data scientists
 
-**Senior ML Engineer / Senior Data Scientist** | Jet2 | Nov 2020 – Aug 2022
+**Senior ML Engineer / Senior Data Scientist** | Jet2 | Nov 2020 – Apr 2023
 - Built MLE function; transitioned models from research to production with automated pipelines
 
 **Senior Data Scientist / Data Scientist** | Evolent Health | Oct 2018 – Nov 2020

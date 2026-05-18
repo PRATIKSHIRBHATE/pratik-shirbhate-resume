@@ -27,18 +27,18 @@ Seeking Principal / Staff / Lead roles in ML Platform Engineering or AI Infrastr
 - Built cost monitoring giving leadership first-ever per-project AWS spend visibility
 - Managed 5–8 ML engineers across UK and India
 
-**Technical Lead – DS & ML** | Jul 2022 – Apr 2026
+**Technical Lead – DS & ML** | April 2023 – April 2026
 
 - Founded MLE team (6–8 engineers); owned productionization of 20+ models across Retail Pricing, Marketing Attribution, Fuel Forecasting, Revenue Risk
 - Built CI/CD pipelines for model training, validation, and deployment for 40+ data scientists
 - Established MLOps standards: monitoring, versioning, lifecycle management — became org-wide practice
 
-**Senior ML Engineer** | Apr 2022 – Aug 2022
+**Senior ML Engineer** | April 2022 – April 2023
 
 - Built MLE function from scratch; transitioned models from research to production with automated workflows
 - Implemented model monitoring and logging for production performance tracking
 
-**Senior Data Scientist** | Nov 2020 – Aug 2022
+**Senior Data Scientist** | Nov 2020 – April 2022
 
 - Developed and deployed ML models for airline pricing and revenue optimization
 - Feature engineering, model evaluation, and stakeholder collaboration
